@@ -142,7 +142,7 @@ pip install pandas numpy matplotlib seaborn streamlit
 4. Run the Streamlit dashboard:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run healthcare_eda.py
 ```
 
 ## 📁 Repository Structure
