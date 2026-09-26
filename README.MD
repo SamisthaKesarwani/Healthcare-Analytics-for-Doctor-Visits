@@ -142,7 +142,7 @@ pip install pandas numpy matplotlib seaborn streamlit
 4. Run the Streamlit dashboard:
 
 ```bash
-streamlit run healthcare_eda.py
+streamlit run Samistha_Healthcareanalyticsdoctorvisitdiyproject.py
 ```
 
 ## 📁 Repository Structure
@@ -150,7 +150,7 @@ streamlit run healthcare_eda.py
 ```text
 Healthcare-Analytics-Doctor-Visits/
 │
-├── healthcare_eda.py
+├── Samistha_Healthcareanalyticsdoctorvisitdiyproject.py
 ├── 1776250375-P2-Healthcare Analytics for Doctor Visits.csv
 ├── README.md
 │
